@@ -1,0 +1,466 @@
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #img {
+    width: 35%;
+    margin-top: 25px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #img {
+    width: 25%;
+    margin: 25px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #img {
+    width: 25%;
+    margin: 25px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #img {
+    width: 36%;
+    margin: 25px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #img {
+    width: 30%;
+    margin-top: 25px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #name_heading {
+    font-size: 24px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #name_heading {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #name_heading {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #name_heading {
+    font-size: 26px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #name_heading {
+    font-size: 30px;
+    margin-top: 15px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #prof_heading {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #prof_heading {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #prof_heading {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #prof_heading {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #prof_heading {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  .ph {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  .ph {
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .ph {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #R1 {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #R1 {
+    margin-top: 30px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #R1 {
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  #R1 {
+    margin-top: 30px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #main_heading_new-1 {
+    font-size: 30px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #main_heading_new-2 {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #main_heading_new-1 {
+    font-size: 23px;
+    margin-left: -12px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #main_heading_new-1 {
+    font-size: 23px;
+    margin-left: -12px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #main_heading_new-1 {
+    font-size: 23px;
+    margin-left: -12px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #main_heading_new-1 {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #main_heading_new-2 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #main_heading_new-2 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #main_heading_new-2 {
+    font-size: 25px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #main_heading_new-2 {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  .N_icon_new {
+    font-size: 30px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  .N_icon_new {
+    font-size: 28px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  .N_icon_new {
+    font-size: 26px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  .N_icon_new {
+    font-size: 32px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .N_icon_new {
+    font-size: 34px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  .ph_main2 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  .ph_main2 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  .ph_main2 {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  .ph_main2 {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .ph_main2 {
+    font-size: 16px;
+    text-align: center;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #comment {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #comment {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #comment {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #comment {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #comment {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  .para {
+    font-size: 13px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  .para {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  .para {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  .para {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .para {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 992px) {
+  #div {
+    background-color: rgb(227,232,233);
+    margin-top: 100px;
+  }
+}
+
+@media (min-width: 992px) {
+  #div_p {
+    /*background-color: rgb(227,232,233);*/
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #div {
+    margin-top: 100px;
+  }
+}
+
+@media screen and (min-width:768px) and (max-width:991.98px) {
+  #div_p {
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #div {
+    margin-top: 40%;
+  }
+}
+
+@media screen and (min-width:576px) and (max-width:767.98px) {
+  #div_p {
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #div {
+    margin-top: 50%;
+    width: 100%;
+    padding: 35px;
+  }
+}
+
+@media screen and (min-width:0px) and (max-width:575.98px) {
+  #div_p {
+    margin-top: 0px;
+    width: 100%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  #wave {
+    display: none;
+  }
+}
+
+@media (max-width: 991.98px) {
+  #wave_red {
+    display: none;
+  }
+}
+
+#i_pinding {
+  font-size: 50px;
+}
+
+@media (min-width: 1200px) {
+  #wave_red {
+    display: inline;
+    width: 100%;
+    margin-top: -20px;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #wave_red {
+    display: inline;
+    width: 100%;
+  }
+}
+
+@media (min-width: 1200px) {
+  #wave {
+    display: inline;
+    width: 100%;
+  }
+}
+
+@media screen and (min-width:992px) and (max-width:1199.98px) {
+  #wave {
+    display: inline;
+    width: 100%;
+    margin-top: 10px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header with a grey background and some padding */
+
+/* Style the header links */
+
+/* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+
+/* Change the background color on mouse-over */
+
+/* Style the active/current link */
+
+/* Float the link section to the right */
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+
+.icons {
+  font-size: 25px;
+  color: rgb(136,127,111);
+}
+
+.icons:hover {
+  font-size: 30px;
+  color: rgb(0,144,167);
+}
+
+.container {
+}
+
+.content-image {
+  width: 100%;
+}
+
+@media (max-width: 769.99px) {
+  .logo_img {
+    height: 14%;
+  }
+}
+
+@media (min-width: 768px) {
+  .logo_img {
+    height: 14%;
+  }
+}
+
